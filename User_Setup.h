@@ -20,8 +20,8 @@
 
 // Generic ESP32 setup
 #define TFT_MISO -1
-#define TFT_MOSI 14
-#define TFT_SCLK 12
+#define TFT_MOSI 18
+#define TFT_SCLK 5
 #define TFT_CS -1 // Not connected
 #define TFT_DC 4
 #define TFT_RST 2 // Connect reset to ensure display initialises
